@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{88C02DBA-5D60-42C5-82CD-B8F7A78BD567}") = "DevToolsSessionCloseCrashes", "DevToolsSessionCloseCrashes\DevToolsSessionCloseCrashes.csproj", "{29279096-2AF2-4619-80FF-DB98CFFCBD9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29279096-2AF2-4619-80FF-DB98CFFCBD9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29279096-2AF2-4619-80FF-DB98CFFCBD9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29279096-2AF2-4619-80FF-DB98CFFCBD9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29279096-2AF2-4619-80FF-DB98CFFCBD9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AB12192-541A-4919-B22F-3DD85ABC50E4}
+	EndGlobalSection
+EndGlobal
